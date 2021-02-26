@@ -1,0 +1,69 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:7:5-44
+INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:7:5-44
+INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:7:5-44
+INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:7:5-44
+INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:7:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:7:5-44
+		INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:7:15-41
+		INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.usb.host
+ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:9:5-11:36
+	android:required
+		ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:11:9-33
+	android:name
+		ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:10:9-49
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:12:22-64
+application
+ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:14:5-27:19
+	android:label
+		ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:15:9-45
+activity#com.example.VisualStick.VisualStick
+ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:19:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:23:27-74

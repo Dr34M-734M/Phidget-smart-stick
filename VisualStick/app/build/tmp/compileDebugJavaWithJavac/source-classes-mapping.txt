@@ -1,0 +1,8 @@
+com/example/VisualStick/BuildConfig.java
+ com.example.VisualStick.BuildConfig
+com/example/VisualStick/VisualStick.java
+ com.example.VisualStick.VisualStick
+ com.example.VisualStick.VisualStick$1
+ com.example.VisualStick.VisualStick$2
+ com.example.VisualStick.VisualStick$3
+ com.example.VisualStick.VisualStick$4

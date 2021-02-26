@@ -1,0 +1,51 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.VisualStick"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:7:5-44
+8        android:minSdkVersion="16"
+8-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:7:15-41
+9        android:targetSdkVersion="16" />
+9-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:7:5-44
+10
+11    <uses-feature
+11-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:9:5-11:36
+12        android:name="android.hardware.usb.host"
+12-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:10:9-49
+13        android:required="false" />
+13-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:11:9-33
+14
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:12:5-67
+15-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:12:22-64
+16
+17    <application
+17-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:14:5-27:19
+18        android:debuggable="true"
+19        android:icon="@drawable/ic_launcher"
+19-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:15:9-45
+20        android:label="@string/app_name" >
+20-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:16:9-41
+21        <activity
+21-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:17:9-25:20
+22            android:name="com.example.VisualStick.VisualStick"
+22-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:19:13-63
+23            android:label="@string/app_name" >
+23-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:18:13-45
+24            <intent-filter>
+24-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:20:13-24:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:21:17-69
+25-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:21:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:23:17-77
+27-->/Users/sarahalhouli/Downloads/VisualStick/app/src/main/AndroidManifest.xml:23:27-74
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>
