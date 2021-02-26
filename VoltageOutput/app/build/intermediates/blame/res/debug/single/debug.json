@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\paclab\\Desktop\\VoltageOutput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\paclab\\Desktop\\VoltageOutput\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\paclab\\Desktop\\VoltageOutput\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\paclab\\Desktop\\VoltageOutput\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\paclab\\Desktop\\VoltageOutput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\paclab\\Desktop\\VoltageOutput\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

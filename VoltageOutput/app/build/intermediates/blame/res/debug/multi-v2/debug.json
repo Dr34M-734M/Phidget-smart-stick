@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\paclab\\Desktop\\VoltageOutput\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\paclab\\Desktop\\VoltageOutput\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,116",
+                        "endColumns": "59,44",
+                        "endOffsets": "111,156"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,115",
+                        "endColumns": "59,44",
+                        "endOffsets": "110,155"
+                    }
+                }
+            ]
+        }
+    ]
+}

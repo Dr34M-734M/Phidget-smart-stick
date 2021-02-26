@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DistanceSensor.iml" filepath="$PROJECT_DIR$/.idea/modules/DistanceSensor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DistanceSensor.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DistanceSensor.app.iml" />
+    </modules>
+  </component>
+</project>
